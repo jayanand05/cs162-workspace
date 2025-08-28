@@ -14,6 +14,8 @@ volatile int stuff = 7;
 int main(int argc, char *argv[]) {
     /* A stack allocated variable */
     volatile int i = 0;
+    
+    #include "printer.c"
 
     /* Dynamically allocate some stuff */
     volatile char *buf1 = malloc(100);
