@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,linux,c,vim,emacs,visualstudiocode,clion
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,linux,c,vim,emacs,visualstudiocode,clion
 
@@ -338,3 +339,8 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux,c,vim,emacs,visualstudiocode,clion
+=======
+.workspace/
+
+.DS_Store
+>>>>>>> bba9acca9b7c5aab84f316c2c5062f0ea752f035
